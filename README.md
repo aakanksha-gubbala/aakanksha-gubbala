@@ -1,7 +1,5 @@
 ### Hi there 👋
 
----
-
 I am a second-year chemical engineering Ph.D. student at UCSB.
 
 ---
@@ -11,8 +9,6 @@ I am a second-year chemical engineering Ph.D. student at UCSB.
 - **Python:** Numerical simulations, data postprocessing, visualizations
 - **MATLAB:** Linear algebra
 - **LaTeX:** Document preparation
-
----
 
 ### Softwares
 
