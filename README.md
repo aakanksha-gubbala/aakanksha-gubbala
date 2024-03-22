@@ -14,9 +14,17 @@ I am a second-year chemical engineering Ph.D. student at UCSB.
 - **LaTeX:** Document preparation
 - **Mathematica:** Symbolic algebra
 
+### Numerical tools
+
+- **Finite differencing:** Upwinding, ENO and Godunov schemes
+- **Pseudospectral methods**
+- **Stochastic modeling**
+- **Finite Element Methods (FEM)**
+- **Algorithms**
+
 ### Softwares
 
-- **GROMACS:** Molecular dynamics
+- **GROMACS:** All-atom molecular dynamics
 
 ### Workflow tools
 
