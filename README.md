@@ -32,3 +32,4 @@ I am a second-year chemical engineering Ph.D. student at UCSB.
 - **CMake**
 - **Makefiles**
 - **Shell scripting**
+- **Vim/Emacs** (todo)
