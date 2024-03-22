@@ -8,7 +8,7 @@ I am a second-year chemical engineering Ph.D. student at UCSB.
 
 - **Python:** Numerical simulations, data postprocessing, visualizations
   - Libraries: Numpy, Scipy, Pandas, Matpotlib, Scikit-learn, h5py
-- **C++:** Numerical simulations, algorithms, OOP
+- **C++:** Numerical simulations, algorithms
   - Libraries: Deal.II (FEM package, in progress), Doxygen (todo)
 - **MATLAB:** Linear algebra, numerical methods
 - **LaTeX:** Document preparation
@@ -20,7 +20,6 @@ I am a second-year chemical engineering Ph.D. student at UCSB.
 - **Pseudospectral methods**
 - **Stochastic modeling**
 - **Finite Element Methods (FEM)**
-- **Algorithms**
 
 ### Softwares
 
