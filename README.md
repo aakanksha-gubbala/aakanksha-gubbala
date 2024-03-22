@@ -17,9 +17,9 @@ I am a second-year chemical engineering Ph.D. student at UCSB.
 ### Numerical tools
 
 - **Finite differencing:** Upwinding, ENO and Godunov schemes
-- **Pseudospectral methods**
-- **Stochastic modeling**
-- **Finite Element Methods (FEM)**
+- **Pseudospectral methods** 
+- **Stochastic modeling:** Solving noisy PDEs with Ito and Stratanovich methods
+- **Finite Element Method (FEM)**
 
 ### Softwares
 
